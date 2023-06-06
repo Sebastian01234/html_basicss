@@ -1,0 +1,63 @@
+ul{
+    list-style-type: none;
+    background-color: #1dd3a9;
+    overflow: auto;
+}
+li,a{
+    float: left;
+    padding: 15px;
+    font-size: medium;
+    font-family: Ani, serif;
+    color: black;
+}
+li a:hover{
+    background-color: #cb4818;
+}
+.fruits{
+    background-color: #1db995;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: Chandas, serif;
+}
+.cars{
+    background-color: antiquewhite;
+    font-family: "DejaVu Sans Mono", serif;
+    border: 4px dotted yellowgreen;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.kicks{
+    background-color: coral;
+    font-family: "Droid Sans", serif;
+    border: 5px dot-dot-dash darkkhaki;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
+#gari{
+  background-color: antiquewhite;
+    font-family: "DejaVu Sans Mono", serif;
+    border: 4px dotted yellowgreen;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
+#matunda{
+     background-color: coral;
+    font-family: "Droid Sans", serif;
+    border: 5px dot-dot-dash darkkhaki;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
+#Gachagua{
+    background-color: #1db995;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: Chandas, serif;
+}
